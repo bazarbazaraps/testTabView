@@ -1,4 +1,4 @@
-package bazarbazaraps.testtabview
+package bazarbazaraps.worldcupgoal
 
 import org.junit.Test
 

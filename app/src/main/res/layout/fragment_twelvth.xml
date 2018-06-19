@@ -3,13 +3,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/brazil_girl"
-    tools:context=".SecondFragment">
+    android:background="@drawable/portugal_girl"
+    tools:context=".TwelvthFragment">
 
     <!-- TODO: Update blank fragment layout -->
 
     <ListView
-        android:id="@+id/listview2"
+        android:id="@+id/listview12"
         android:layout_width="match_parent"
         android:layout_height="450dp" />
 </FrameLayout>
